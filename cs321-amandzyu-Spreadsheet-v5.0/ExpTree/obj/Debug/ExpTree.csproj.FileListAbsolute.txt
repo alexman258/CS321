@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\bin\Debug\ExpTree.exe.config
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\bin\Debug\ExpTree.exe
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\bin\Debug\ExpTree.pdb
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\obj\Debug\ExpTree.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\obj\Debug\ExpTree.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\obj\Debug\ExpTree.exe
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\obj\Debug\ExpTree.pdb
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Alex\source\repos\Spreadsheet\ExpTree\bin\Debug\SpreadsheetEngine.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\Spreadsheet\SpreadsheetEngine\bin\Release\SpreadsheetEngine.dll
+C:\Users\Alex\source\repos\Spreadsheet\SpreadsheetEngine\bin\Release\SpreadsheetEngine.pdb
+C:\Users\Alex\source\repos\Spreadsheet\SpreadsheetEngine\obj\Release\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Spreadsheet\SpreadsheetEngine\obj\Release\SpreadsheetEngine.dll
+C:\Users\Alex\source\repos\Spreadsheet\SpreadsheetEngine\obj\Release\SpreadsheetEngine.pdb
+C:\Users\Alex\source\repos\Spreadsheet\SpreadsheetEngine\obj\Release\SpreadsheetEngine.csprojResolveAssemblyReference.cache

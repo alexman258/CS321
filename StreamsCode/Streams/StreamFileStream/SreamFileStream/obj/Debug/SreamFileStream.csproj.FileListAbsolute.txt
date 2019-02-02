@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\StreamsCode\Streams\StreamFileStream\SreamFileStream\bin\Debug\SreamFileStream.exe.config
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\StreamsCode\Streams\StreamFileStream\SreamFileStream\bin\Debug\SreamFileStream.exe
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\StreamsCode\Streams\StreamFileStream\SreamFileStream\bin\Debug\SreamFileStream.pdb
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\StreamsCode\Streams\StreamFileStream\SreamFileStream\obj\Debug\SreamFileStream.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\StreamsCode\Streams\StreamFileStream\SreamFileStream\obj\Debug\SreamFileStream.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\StreamsCode\Streams\StreamFileStream\SreamFileStream\obj\Debug\SreamFileStream.exe
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\StreamsCode\Streams\StreamFileStream\SreamFileStream\obj\Debug\SreamFileStream.pdb

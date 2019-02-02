@@ -1,0 +1,7 @@
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadTimerClass\obj\Debug\ThreadTimerClass.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadTimerClass\bin\Debug\ThreadTimerClass.exe.config
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadTimerClass\bin\Debug\ThreadTimerClass.exe
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadTimerClass\bin\Debug\ThreadTimerClass.pdb
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadTimerClass\obj\Debug\ThreadTimerClass.exe
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadTimerClass\obj\Debug\ThreadTimerClass.pdb
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadTimerClass\obj\Debug\ThreadTimerClass.csprojResolveAssemblyReference.cache

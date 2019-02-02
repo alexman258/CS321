@@ -1,0 +1,14 @@
+C:\Users\Aaron\dev\CptS321\classExamples\RegExExamples\RegExExamples\bin\Debug\RegExExamples.exe.config
+C:\Users\Aaron\dev\CptS321\classExamples\RegExExamples\RegExExamples\bin\Debug\RegExExamples.exe
+C:\Users\Aaron\dev\CptS321\classExamples\RegExExamples\RegExExamples\bin\Debug\RegExExamples.pdb
+C:\Users\Aaron\dev\CptS321\classExamples\RegExExamples\RegExExamples\obj\Debug\RegExExamples.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\dev\CptS321\classExamples\RegExExamples\RegExExamples\obj\Debug\RegExExamples.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\dev\CptS321\classExamples\RegExExamples\RegExExamples\obj\Debug\RegExExamples.exe
+C:\Users\Aaron\dev\CptS321\classExamples\RegExExamples\RegExExamples\obj\Debug\RegExExamples.pdb
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\RegExExamples\RegExExamples\RegExExamples\bin\Debug\RegExExamples.exe.config
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\RegExExamples\RegExExamples\RegExExamples\bin\Debug\RegExExamples.exe
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\RegExExamples\RegExExamples\RegExExamples\bin\Debug\RegExExamples.pdb
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\RegExExamples\RegExExamples\RegExExamples\obj\Debug\RegExExamples.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\RegExExamples\RegExExamples\RegExExamples\obj\Debug\RegExExamples.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\RegExExamples\RegExExamples\RegExExamples\obj\Debug\RegExExamples.exe
+C:\Users\Alex\Documents\WSU-Spring18\Cpts_321\RegExExamples\RegExExamples\RegExExamples\obj\Debug\RegExExamples.pdb

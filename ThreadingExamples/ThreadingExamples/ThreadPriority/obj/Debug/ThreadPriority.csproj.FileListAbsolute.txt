@@ -1,0 +1,6 @@
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadPriority\bin\Debug\ThreadPriority.exe.config
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadPriority\bin\Debug\ThreadPriority.exe
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadPriority\bin\Debug\ThreadPriority.pdb
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadPriority\obj\Debug\ThreadPriority.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadPriority\obj\Debug\ThreadPriority.exe
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadPriority\obj\Debug\ThreadPriority.pdb

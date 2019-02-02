@@ -1,0 +1,7 @@
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadingDeadlock\bin\Debug\ThreadingDeadlock.exe.config
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadingDeadlock\bin\Debug\ThreadingDeadlock.exe
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadingDeadlock\bin\Debug\ThreadingDeadlock.pdb
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadingDeadlock\obj\Debug\ThreadingDeadlock.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadingDeadlock\obj\Debug\ThreadingDeadlock.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadingDeadlock\obj\Debug\ThreadingDeadlock.exe
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\ThreadingDeadlock\obj\Debug\ThreadingDeadlock.pdb

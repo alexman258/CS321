@@ -1,0 +1,7 @@
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\WorkerQueue\bin\Debug\WorkerQueue.exe.config
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\WorkerQueue\bin\Debug\WorkerQueue.exe
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\WorkerQueue\bin\Debug\WorkerQueue.pdb
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\WorkerQueue\obj\Debug\WorkerQueue.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\WorkerQueue\obj\Debug\WorkerQueue.exe
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\WorkerQueue\obj\Debug\WorkerQueue.pdb
+C:\Users\Aaron\dev\CptS321\classExamples\ThreadingExamples\WorkerQueue\obj\Debug\WorkerQueue.csprojResolveAssemblyReference.cache

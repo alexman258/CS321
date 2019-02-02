@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\bin\Release\Spreadsheet.exe.config
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\bin\Release\Spreadsheet.exe
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\bin\Release\Spreadsheet.pdb
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\bin\Release\SpreadsheetEngine.dll
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\bin\Release\SpreadsheetEngine.pdb
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.Spreadsheet.resources
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.Properties.Resources.resources
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.exe
+C:\Users\Alex\source\repos\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.pdb

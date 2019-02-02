@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet", "Spreadsheet\Spreadsheet.csproj", "{AD797DAF-AF26-47DA-A139-F23FD3A749B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "SpreadsheetEngine\SpreadsheetEngine.csproj", "{6DFC9D50-C11A-460D-AA45-B1F3606135DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD797DAF-AF26-47DA-A139-F23FD3A749B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD797DAF-AF26-47DA-A139-F23FD3A749B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD797DAF-AF26-47DA-A139-F23FD3A749B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD797DAF-AF26-47DA-A139-F23FD3A749B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFC9D50-C11A-460D-AA45-B1F3606135DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFC9D50-C11A-460D-AA45-B1F3606135DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFC9D50-C11A-460D-AA45-B1F3606135DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFC9D50-C11A-460D-AA45-B1F3606135DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92C0DF45-2649-46E8-884C-6BDCF7C738C1}
+	EndGlobalSection
+EndGlobal
